@@ -53,20 +53,24 @@ A Conpec possui atualmente **53 membros** organizados em uma estrutura hierárqu
 ### Diretorias e Áreas
 
 #### Presidência Executiva
-- 1 Presidente Executivo
-- Não é considerada uma "área" — diretoria de pessoa única
+- **Presidente Executivo:** 1
+- Não é considerada uma "área", diretoria de pessoa única
 - Atualmente absorvendo também as responsabilidades estratégicas de Gente e Gestão (G&G) devido à vacância
 
 #### Área de Mercado (Diretoria de Mercado)
 - **Diretor:** 1
-- **Gerência de Marketing:** 1 gerente, 2 assessores, 12 trainees
+- **Gerência de Marketing:** 1
 - **Gerência de Comercial:** atualmente vacante
+- **Assessores:** 2
+- **Trainees**: 12
 - **Total:** 16 membros
 - **Escopo:** captação de clientes, campanhas de marketing, marca, estratégia comercial
 
 #### Área de Projetos (Diretoria de Projetos)
 - **Diretor:** 1
-- **Gerência de Projetos:** 2 gerentes, 15 assessores, 18 trainees
+- **Gerência de Projetos:** 2
+- **Assessores:** 15
+- **Trainees**: 18
 - **Total:** 36 membros
 - **Escopo:** execução de projetos, entrega técnica, consultoria, desenvolvimento
 
@@ -74,7 +78,7 @@ A Conpec possui atualmente **53 membros** organizados em uma estrutura hierárqu
 - **Status:** diretoria atualmente vacante
 - Escopo estratégico absorvido pela Presidência Executiva
 - Tarefas operacionais distribuídas para toda a empresa
-- **Escopo (quando ativa):** cultura interna, desenvolvimento de membros, RH, processos organizacionais
+- **Escopo (quando ativa):** cultura interna, desenvolvimento de membros, RH, processos organizacionais, eventos (externos e internos), infraestrutura
 
 ---
 

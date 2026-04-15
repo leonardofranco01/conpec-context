@@ -59,14 +59,18 @@ Conpec currently has **53 members** organized into a hierarchical structure with
 
 #### Market Area (Diretoria de Mercado)
 - **Director:** 1
-- **Marketing Management:** 1 manager, 2 assessors, 12 trainees
+- **Marketing Management:** 1
 - **Commercial Management:** currently vacant
+- **Assessors:** 2
+- **Trainees**: 12
 - **Total:** 16 members
 - **Scope:** client acquisition, marketing campaigns, brand, commercial strategy
 
 #### Projects Area (Diretoria de Projetos)
 - **Director:** 1
-- **Projects Management:** 2 managers, 15 assessors, 18 trainees
+- **Projects Management:** 2
+- **Assessors:** 15
+- **Trainees**: 18
 - **Total:** 36 members
 - **Scope:** project execution, technical delivery, consulting, development
 
@@ -74,7 +78,7 @@ Conpec currently has **53 members** organized into a hierarchical structure with
 - **Status:** directorate currently vacant
 - Strategic scope absorbed by Executive Presidency
 - Operational tasks distributed across the entire company
-- **Scope (when active):** internal culture, member development, HR, organizational processes
+- **Scope (when active):** internal culture, member development, HR, organizational processes, events (external and internal), infrastructure
 
 ---
 
